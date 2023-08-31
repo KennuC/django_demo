@@ -2,7 +2,10 @@ li a {
     color: white;
 }
 
-body { 
+/* body { 
     background: white url("images/picture.jpg") no-repeat;
-}
+} */
 
+body { 
+    background: rgb(255, 0, 0);
+}
