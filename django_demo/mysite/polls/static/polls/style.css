@@ -1,12 +1,7 @@
-/* li a {
-    color: red;
-} */
-
-/* body { 
-    background: rgb(255, 0, 0) url("images/picture.jpg") no-repeat;
-} */
-
-/* body { 
-    background: rgb(255, 0, 0);
+li a {
+    color: goldenrod;
 }
- */
+
+body { 
+    background: rgb(255, 0, 0) url("images/image.jpg") no-repeat;
+} 
